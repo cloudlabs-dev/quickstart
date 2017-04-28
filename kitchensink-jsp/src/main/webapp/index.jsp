@@ -45,6 +45,7 @@
         </div>
         <div id="aside">
             <p>Learn more about JBoss WildFly.</p>
+            <p>Testando OpenShift!.</p>
             <ul>
                 <li><a
                     href="https://github.com/wildfly/quickstart/blob/master/guide/Introduction.asciidoc">Getting
